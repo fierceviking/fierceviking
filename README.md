@@ -1,5 +1,12 @@
-### Hi there 👋
+Hello there,
 
+I program in python in my freetime and as a part of my education. Besides that I'm an aspiring pilot.
+
+That's all.
+
+Have a nice day.
+
+/viking
 <!--
 **fierceviking/fierceviking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
