@@ -1,6 +1,6 @@
 Hello there,
 
-I program in python in my freetime and as a part of my education. Besides that I'm an aspiring pilot.
+I program in python, C++, and various other languages in my freetime and as a part of my education. Besides that I'm an aspiring pilot.
 
 That's all.
 
