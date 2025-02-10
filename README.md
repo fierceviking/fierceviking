@@ -1,6 +1,6 @@
 Aspiring AI engineer with proficiency in Python and learning C++.
 
-For inquiries, please mail anders@klynge.dk
+For inquiries, please send a mail to: anders@klynge.dk
 <!--
 **fierceviking/fierceviking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
