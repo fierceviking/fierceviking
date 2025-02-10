@@ -1,12 +1,6 @@
-Hello there,
+Aspiring AI engineer with proficiency in Python and learning C++.
 
-I program in python, C++, and various other languages in my freetime and as a part of my education. Besides that I'm an aspiring pilot.
-
-That's all.
-
-Have a nice day.
-
-/viking
+For inquiries, please mail anders@klynge.dk
 <!--
 **fierceviking/fierceviking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
